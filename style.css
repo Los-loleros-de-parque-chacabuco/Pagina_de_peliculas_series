@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #2f1125;
+}
+
+.login{
+    border-radius: 10%;
+    background-color: #5BDEA5;
+}
