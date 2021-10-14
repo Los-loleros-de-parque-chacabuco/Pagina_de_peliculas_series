@@ -204,6 +204,13 @@ body{
 .button{
     background-color: #5BDEA5;
     font-family: monospace, serif;
+    width: 100%;
+}
+
+.width{
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 div{
