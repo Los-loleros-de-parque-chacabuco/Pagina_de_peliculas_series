@@ -1,3 +1,4 @@
+ HEAD
 /*
 PALETA DE COLORES
 #FFFFFF (Fondo)
@@ -187,3 +188,30 @@ body{
   .fondo4 {
     background-color: gray;
   }
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #2f1125;
+    font-family: monospace, serif;
+}
+
+.login{
+    font-size: 16px;
+    justify-content: center;
+    display: flex;
+}
+
+.button{
+    background-color: #5BDEA5;
+    font-family: monospace, serif;
+}
+
+div{
+    padding: 1%;
+}
+
+.padding{
+    padding-top: 10%;
+}
+
