@@ -11,9 +11,11 @@ PALETA DE COLORES
 #E6A3A1 (Color secundario)
 #994F4D (Color secundario)
 */
+
   .container-fluid {
     height: 150px;
   }
+
   .biografia {
     padding: 0;
     margin: 0;
@@ -22,6 +24,7 @@ PALETA DE COLORES
     text-align: center;
     color: white;
   }
+
   .biografia2 {
     padding: 0;
     margin: 0;
@@ -30,16 +33,20 @@ PALETA DE COLORES
     text-align: center;
     color: black;
   }
+
   .contacto {
     text-align: center; /*TRATO DE CENTRAR EL APARTADO DE CONTACTOS*/
   }
+
   p {
     color: white;
     text-align: center;
   }
+
   .sangria {
     text-indent: 40px;
   }
+
   .boton_principal {
     padding: 15px;
     background: #95d4aa;
@@ -47,11 +54,13 @@ PALETA DE COLORES
     border: #95d4aa;
     border-radius: 8px;
   }
+
   .boton_principal:hover {
     padding: 15px;
     background: #e6a3a1;
     color: black;
   }
+
   .boton_principal:active {
     padding: 15px;
     background: #95d4aa;
@@ -65,6 +74,7 @@ PALETA DE COLORES
     margin: auto;
     background-color: #e6a3a1;
   }
+
   /*COMIENZA LA ANIMACION DE LAS TARJETAS*/
   #cards_landscape_wrap-2 {
     text-align: center;
@@ -181,28 +191,36 @@ PALETA DE COLORES
     padding: 3%;
     margin: 5%;
   }
+
   /*FINALIZA LA ANIMACION DE LAS TARJETAS*/
   .fondo {
     background-color: #2d1024;
   }
+
   .letra {
     color:  #F0F571;
     
   }
+
   .letra2 {
     font-size: 21px;
   }
+
   .letra3 {
     font-size: 22px;
   }
+
   .fondo3 {
     background-color: #e6a3a1;
   }
+
   .fondo4 {
     background-color: gray;
   }
 
-  /* Inicio de sesion */
+
+
+  /* Inicio de sesion ------------------------------------------------------------------------------------------------*/
 
 .login{
     justify-content: center;
@@ -224,6 +242,9 @@ PALETA DE COLORES
     background-color: #5BDEA5;
     font-family: monospace, serif;
     width: 100%;
+    background-image: linear-gradient(160deg, #5BDEA5 0%, #378f7b 100%);
+    padding: 5%;
+    
 }
 
 .width{
@@ -241,4 +262,10 @@ div{
     padding-top: 10%;
 }
 
+.decoration{
+  padding: 3%;
+  border-radius: 15px;
+  font-family: monospace, serif;
+  border-color:#5BDEA5;
+}
 /* ------------------------------------------------------------------------------------------------------ */
