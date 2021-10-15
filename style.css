@@ -248,7 +248,7 @@ PALETA DE COLORES
 }
 
 .width{
-    width: 100%;
+    width: 300px;
     display: flex;
     justify-content: center;
     padding: auto;
@@ -267,5 +267,9 @@ div{
   border-radius: 15px;
   font-family: monospace, serif;
   border-color:#5BDEA5;
+}
+
+.decoration2{
+  text-align: center;
 }
 /* ------------------------------------------------------------------------------------------------------ */
