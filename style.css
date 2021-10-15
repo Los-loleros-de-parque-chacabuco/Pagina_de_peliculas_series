@@ -1,9 +1,8 @@
- HEAD
  html, body {
     background-color: #2f1125;
     font-family: monospace, serif;
-    
 }
+
 /*
 PALETA DE COLORES
 #FFFFFF (Fondo)
@@ -11,7 +10,7 @@ PALETA DE COLORES
 #E6A3A1 (Color secundario)
 #994F4D (Color secundario)
 */
-
+/* Pagina principal ---------------------------------------------------------------------------------------------------*/
   .container-fluid {
     height: 150px;
   }
@@ -217,6 +216,9 @@ PALETA DE COLORES
   .fondo4 {
     background-color: gray;
   }
+a{
+  font-family: monospace, serif;
+}
 
 
 
@@ -256,6 +258,7 @@ PALETA DE COLORES
 
 div{
     padding: 1%;
+    font-family: monospace, serif
 }
 
 .padding{
