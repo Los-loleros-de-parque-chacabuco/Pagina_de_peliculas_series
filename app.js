@@ -1,4 +1,5 @@
 alert ("Registrese o inicie sesión, por favor")
+
 // V A R I A B L E S
 var nombre
 var contrasena
@@ -179,4 +180,4 @@ function carritoCompra() {
 } while (confirmar === true);
 
 alert ("Compraste estos films: " + peliculas + "\n" + "El precio final es: " + carritos)
-} 
+}
